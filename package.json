@@ -1,0 +1,22 @@
+{
+  "name": "login_signup_form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "signup_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "ejs": "^3.1.9",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.3",
+    "i": "^0.3.7",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "npm": "^10.2.5",
+    "or": "^0.2.0"
+  }
+}
